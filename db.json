@@ -35,11 +35,7 @@
            "label": "Administrador 1",
            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
         },
-        {
-           "value": 8,
-           "label": "Resultados 1",
-           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
-        },
+
         {
            "value": 8,
            "label": "Resultados 1",
