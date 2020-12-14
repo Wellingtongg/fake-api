@@ -1,0 +1,65 @@
+{
+   "value": 1,
+   "label": "Administrador",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 2,
+   "label": "Resultados",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 3,
+   "label": "Gestor de Operação",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 4,
+   "label": "Operador de Vendas",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 5,
+   "label": "Operador de Estoque",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 6,
+   "label": "Operador de Atendimento",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 7,
+   "label": "Administrador 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 8,
+   "label": "Resultados 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 8,
+   "label": "Resultados 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 9,
+   "label": "Gestor de Operação 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 10,
+   "label": "Operador de Vendas 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 11,
+   "label": "Operador de Estoque 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
+{
+   "value": 12,
+   "label": "Operador de Atendimento 1",
+   "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nisl eros, pulvinar facilisis justo mollis, auctor consequat urna."
+}
